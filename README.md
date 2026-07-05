@@ -2,12 +2,12 @@
   
 # 👋 Hi, I'm Krishna Chaitanya Bogavalli
 
-### Senior Software Engineer @ SAP Concur | AI-Augmented Engineering Enthusiast
+### Senior Software Engineer @ SAP Concur
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+AI-First+Production+Systems;Distributed+Systems+Architect;Cloud-Native+Developer;MCP+Protocol+Expert;Agentic+Workflows+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Production-Grade+Systems;Distributed+Systems+Engineer;Cloud-Native+Architecture;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-bogavalli-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitu2568)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chaitu2568)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbogaval@asu.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chaitu2568.github.io)
 
@@ -19,98 +19,152 @@
 
 ```typescript
 const krishna = {
-    role: "Senior Software Engineer @ SAP Concur",
-    focus: "AI-Augmented Engineering",
+    role: "Senior Software Engineer",
+    company: "SAP Concur",
     location: "Allen, TX 🇺🇸",
-    experience: "4+ years",
+    experience: "5+ years",
     
-    currentWork: {
-        building: [
-            "Internal MCP servers for production monitoring",
-            "Multi-agent systems with LangGraph.js",
-            "25+ AI skills for DevOps automation",
-            "Agentic workflows for safe production deployments"
-        ],
-        impact: "Cut on-call review time from hours to minutes"
-    },
-    
-    expertise: [
+    focus: [
         "Distributed Systems Architecture",
         "Cloud-Native Microservices",
-        "AI/ML Integration",
-        "Reactive Programming",
-        "Production Reliability"
+        "AI/ML Integration & Automation",
+        "Production Reliability & Observability"
     ],
     
-    learning: ["RAG Systems", "Agent Orchestration", "LLM Fine-tuning"]
+    passion: "Building scalable systems that solve real-world problems"
 };
 ```
 
 ---
 
-## 💼 Professional Journey
+## 💼 Professional Experience
 
-🎯 **Senior Software Engineer** @ SAP Concur *(Apr 2026 - Present)*
-- 🤖 **All in on AI-Augmented Engineering** — Building MCP tooling and agentic workflows
-- 📊 Authored production health monitoring system correlating **Dynatrace, Kibana, PagerDuty, K8s**
-- 🧠 Built **TypeScript multi-agent system** with LangGraph.js StateGraph orchestration
-- 🛠️ Created **25+ reusable AI skills** for incident triage, log search, PR review, deployment inspection
-- 🚀 Delivered complete partner-API migration via **Claude-based workflows**
+### 🏢 **SAP Concur** | Allen, TX
+**Senior Software Engineer** *(Apr 2026 - Present)*
 
-⚡ **Software Development Engineer 3** *(Apr 2024 - Mar 2026)*
-- 🎨 Stepped into **design ownership** on mission-critical distributed systems
-- 🔧 Built **Kotlin/Ktor rules-evaluation** service powering key business capabilities
-- 🌊 Architected **Spring WebFlux reactive orchestration** with backpressure handling
-- 🧵 Integrated **Java Virtual Threads** (Project Loom) cutting latency on hot paths
-- 💾 Designed **Redis-backed caching layer** de-duplicating cross-region requests
+**Software Development Engineer 3** *(Apr 2024 - Mar 2026)*
 
-🔨 **Software Development Engineer 2** *(Dec 2021 - Mar 2024)*
-- 🏗️ Built **cloud-native Go microservices** from scratch (Gin framework)
-- 🔌 Architected **partner-integration adapter layer** normalizing external APIs
-- ☁️ Deployed on **AWS EKS** with Helm, Envoy, Vault across US/EU/APJ
-- 📈 Integrated **OpenTelemetry, Dynatrace, ELK** for complete observability
+**Software Development Engineer 2** *(Dec 2021 - Mar 2024)*
+- Architected and delivered cloud-native microservices from the ground up
+- Built distributed systems serving corporate travelers worldwide
+- Designed reactive orchestration layers with Spring WebFlux
+- Implemented rules-evaluation engines with Drools
+- Optimized latency-critical paths with Java Virtual Threads (Project Loom)
+- Led integrations with major external content providers
+
+### 🏢 **Microchip Technology** | Chandler, AZ
+**Software Engineer II** *(Feb 2021 - Dec 2021)*
+- Streamlined e-commerce order processing systems
+- Transformed EDI data pipelines with self-service portals
+- Built tools handling massive price updates across millions of records
+
+### 🏢 **Nipun Net Solutions** | India
+**Full Stack Software Engineer** *(May 2018 - Dec 2018)*
+- Upgraded application UI achieving 30% performance improvement
+- Built real-time inventory tracking dashboards
+- Improved availability from 99% to 99.999% via database replication
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🤖 AI & Agentic Systems
-![Claude AI](https://img.shields.io/badge/Claude_AI-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph.js-3B82F6?style=flat-square&logo=javascript&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-10B981?style=flat-square&logo=protocol&logoColor=white)
-
-### 💻 Backend & Languages
+### 💻 **Programming Languages**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🌐 Frameworks & Platforms
+### 🌐 **Backend Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=flat-square&logo=ktor&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### ☁️ Cloud & Infrastructure
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+### 🎨 **Frontend Technologies**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript ES6](https://img.shields.io/badge/ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+
+### ☁️ **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 💾 Data & Caching
+**AWS Services:** EC2, EKS, Lambda, S3, SQS, SNS, CloudWatch, Parameter Store, App Engine, Cloud SQL, Cloud Storage
+
+### 💾 **Databases & Caching**
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### 📊 Observability & DevOps
+### 📊 **Observability & Monitoring**
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🔧 **DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=flat-square&logo=githubactions&logoColor=white)
+![Envoy](https://img.shields.io/badge/Envoy-AC6199?style=flat-square&logo=envoyproxy&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
+
+### 🧪 **Testing & Quality**
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Kotest](https://img.shields.io/badge/Kotest-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Hoverfly](https://img.shields.io/badge/Hoverfly-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Godog](https://img.shields.io/badge/Godog_BDD-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache&logoColor=white)
+
+### 🤖 **AI/ML & Data Science**
+![Claude AI](https://img.shields.io/badge/Claude_AI-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-3B82F6?style=flat-square&logoColor=white)
+
+### 🏗️ **Architecture & Patterns**
+- **Microservices Architecture** | **Reactive Programming** | **Event-Driven Systems**
+- **Kotlin Coroutines** | **Go Concurrency** (goroutines, channels, context)
+- **Java Virtual Threads** (Project Loom)
+- **Spring WebFlux** (Mono, Flux, backpressure)
+- **Rules Engine** (Drools)
+- **REST APIs** | **GraphQL**
+
+### 📚 **Other Tools & Technologies**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ---
 
@@ -130,51 +184,76 @@ const krishna = {
 
 ## 🎯 Featured Projects
 
-### 🤖 [NDC-Hub Health Checker MCP](https://github.com/chaitu2568) *(Private)*
-> **Production monitoring system automating service health reviews**
+### 🚀 [SDE Interview Prep Tracker](https://github.com/chaitu2568/sde-interview-prep)
+> Comprehensive interview preparation dashboard | [Live Demo](https://chaitu2568.github.io/sde-interview-prep/)
 
-- 📊 Correlates **Dynatrace metrics, Kibana logs, PagerDuty incidents, K8s telemetry**
-- 🧠 **Multi-agent TypeScript system** with LangGraph.js orchestration
-- 🎯 **Fingerprint-based P1/P2/P3 triage** with anti-hallucination guardrails
-- ⚡ **Cut on-call review time from hours to minutes**
-
-**Tech:** `TypeScript` `LangGraph.js` `Claude API` `MCP Protocol`
+**Tech:** `JavaScript` `HTML/CSS` `GitHub Pages`
 
 ---
 
-### 📚 [SDE Interview Prep Tracker](https://github.com/chaitu2568/sde-interview-prep)
-> **12-week structured interview preparation dashboard** | [🌐 Live Demo](https://chaitu2568.github.io/sde-interview-prep/)
-
-- 📝 **130 LeetCode problems** across **16 patterns**
-- 🔄 **GitHub-synced progress tracking** via GitHub Actions
-- 📈 Interactive timeline, heatmap visualization, confidence ratings
-- 📖 System design notes and behavioral prep
-
-**Tech:** `JavaScript` `HTML/CSS` `GitHub Pages` `GitHub API`
-
----
-
-### 💰 [OwnWallet Finance PWA](https://gitlab.com/chaitu2568/ownwallet) *(Private)*
-> **Self-hosted personal finance platform with E2E encryption**
-
-- 🔐 **Field-level encryption** with PostgreSQL pgcrypto
-- 📱 **Offline-first PWA** with service worker caching
-- 💼 Multi-account tracking, budget planning, goal tracking
-- ☁️ Deployed on **AWS EC2** with **Tailscale-only access**
+### 💰 OwnWallet Finance PWA *(Private)*
+> Self-hosted personal finance platform with E2E encryption
 
 **Tech:** `Python` `FastAPI` `React` `PostgreSQL` `AWS` `Tailscale`
 
 ---
 
-### 🎯 [JobPilot Career Platform](https://gitlab.com/chaitu2568/jobpilot)
-> **Personal job search management platform**
-
-- 📋 Application lifecycle tracking with status updates
-- 👥 Multi-profile support (admin/user roles)
-- 📄 Document management and interview prep tools
-- 🔄 Weekly upstream sync from career-ops
+### 🎯 JobPilot Career Platform
+> Personal job search management platform | [GitLab](https://gitlab.com/chaitu2568/jobpilot)
 
 **Tech:** `Node.js` `Express` `React` `SQLite` `Vite` `Tailwind`
+
+---
+
+### 🛍️ [E-Commerce Platform](https://github.com/chaitu2568/ECOMMERCE-PROJECT)
+> Full-stack e-commerce with product catalog, cart, authentication
+
+**Tech:** `Python` `Flask` `PostgreSQL` `Bootstrap`
+
+---
+
+### 🤖 Machine Learning Portfolio
+> Collection of ML/DL projects | [View Projects](https://github.com/chaitu2568?tab=repositories)
+
+**Tech:** `Python` `TensorFlow` `Jupyter` `scikit-learn`
+
+---
+
+### ☁️ AWS Object Detection Service *(Academic)*
+> Distributed edge computing with custom elastic load balancer
+
+**Tech:** `Python` `AWS EC2` `S3` `SQS` `Raspberry Pi`
+
+---
+
+### 📚 GCP Study Group Finder *(Academic)*
+> Full-stack platform with real-time chat and Firebase auth
+
+**Tech:** `Python` `Django` `GCP App Engine` `Cloud SQL` `Firebase`
+
+---
+
+### 📱 ASL Gesture Recognition *(Academic)*
+> Android app for American Sign Language gesture classification
+
+**Tech:** `Android` `Java` `Python` `Flask` `AWS EC2`
+
+---
+
+### 💬 Intent Classification for Chatbots *(Research)*
+> NLP system evaluating BERT, MLP, CNN, SVM with ELMo/GloVe embeddings
+
+**Tech:** `Python` `BERT` `TensorFlow` `DialogFlow`
+
+---
+
+## 🎓 Education
+
+🎓 **Master of Science in Computer Science**  
+*Arizona State University* | GPA: 3.8/4.0 | *December 2020*
+
+🎓 **Bachelor of Technology in Computer Science**  
+*Jawaharlal Nehru Technological University* | GPA: 3.7/4.0 | *April 2018*
 
 ---
 
@@ -194,59 +273,14 @@ const krishna = {
 
 ---
 
-## 📚 Recent Blog Posts & Writing
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 Building Production-Grade MCP Servers: Lessons Learned
-- 🧠 Multi-Agent Systems with LangGraph.js: Architecture Patterns
-- ⚡ Java Virtual Threads in Production: Performance Analysis
-- 🌊 Reactive Orchestration with Spring WebFlux: Best Practices
-- 🔐 Securing Microservices: Vault Integration Patterns
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💡 What I'm Currently Working On
-
-```yaml
-current_focus:
-  - name: "Amadeus MCP Server"
-    status: "Research & Planning"
-    description: "Mirror Sabre MCP pattern for Amadeus adapter"
-    
-  - name: "NDC-Hub Healthcheck M2"
-    status: "In Progress"
-    features:
-      - "PagerDuty drill-down integration"
-      - "Service logs correlation"
-      - "Wiki publisher automation"
-      - "Jira ticket correlation"
-    
-  - name: "Interview Preparation"
-    status: "Active"
-    progress: "Week 4 of 12"
-    focus: "System Design + LeetCode patterns"
-```
-
----
-
-## 🎓 Education
-
-🎓 **Master of Science in Computer Science**  
-*Arizona State University* | GPA: 3.8/4.0 | *December 2020*
-
-🎓 **Bachelor of Technology in Computer Science**  
-*Jawaharlal Nehru Technological University* | GPA: 3.7/4.0 | *April 2018*
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
-I'm always interested in discussing **AI-augmented engineering**, **distributed systems challenges**, and **production reliability patterns**.
+I'm always interested in discussing **distributed systems**, **cloud architecture**, **AI/ML integration**, and **production reliability**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-bogavalli-linkedin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chaitu2568)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbogaval@asu.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chaitu2568.github.io)
 
