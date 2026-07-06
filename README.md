@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Production-Grade+Systems;Distributed+Systems+Engineer;Cloud-Native+Architecture;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-bogavalli-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-bogavalli)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chaitu2568)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbogaval@asu.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chaitu2568.github.io)
@@ -41,16 +41,26 @@ const krishna = {
 
 ### 🏢 **SAP Concur** | Allen, TX
 **Senior Software Engineer** *(Apr 2026 - Present)*
+- All in on AI-augmented engineering — building internal MCP tooling, agentic workflows, and reusable AI skills a small team relies on daily
+- Originated an internal MCP server that automates production health reviews across regions, cutting on-call review time from hours to minutes
+- Authored a TypeScript multi-agent system on LangGraph.js — StateGraph supervisor orchestrating collector, triage, and report-writer agents with anti-hallucination guardrails
+- Delivered a complete partner-API migration primarily via Claude-based agentic workflows with human-in-the-loop review
+- Continue architecture leadership on service boundaries, Redis caching, reactive orchestration, and reliability patterns
 
 **Software Development Engineer 3** *(Apr 2024 - Mar 2026)*
+- Developed and delivered a Kotlin/Ktor rules-evaluation service on Drools powering key capabilities of the business travel product
+- Built Spring WebFlux reactive orchestration microservices with Flux/Mono, non-blocking WebClient, backpressure, timeout, and retry strategies
+- Integrated Java virtual threads (Project Loom) cutting latency on hot paths
+- Designed a Redis-backed caching layer de-duplicating upstream requests across regions
+- Led integrations with multiple major external content providers — schema modeling, orchestration, per-provider error isolation
+- Mentored engineers on reactive Kotlin, JVM concurrency, and API design
 
 **Software Development Engineer 2** *(Dec 2021 - Mar 2024)*
-- Architected and delivered cloud-native microservices from the ground up
-- Built distributed systems serving corporate travelers worldwide
-- Designed reactive orchestration layers with Spring WebFlux
-- Implemented rules-evaluation engines with Drools
-- Optimized latency-critical paths with Java Virtual Threads (Project Loom)
-- Led integrations with major external content providers
+- Architected and delivered cloud-native microservices from the ground up as part of a multi-year monolith-to-microservice re-platforming
+- Built partner-integration adapter layer normalizing external provider APIs for consistency
+- Leveraged Go concurrency primitives (goroutines, channels, context) for high-throughput request handling
+- Deployed on AWS EKS with Helm, Envoy sidecars, and Vault-agent for secrets across US/EU/APJ regions
+- Implemented TDD with Godog BDD and Newman-in-Lambda scheduled sanity testing framework
 
 ### 🏢 **Microchip Technology** | Chandler, AZ
 **Software Engineer II** *(Feb 2021 - Dec 2021)*
@@ -279,7 +289,7 @@ const krishna = {
 
 I'm always interested in discussing **distributed systems**, **cloud architecture**, **AI/ML integration**, and **production reliability**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-bogavalli-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-bogavalli)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chaitu2568)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbogaval@asu.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chaitu2568.github.io)
