@@ -68,7 +68,7 @@ const krishna = {
 - Transformed EDI data pipelines with self-service portals
 - Built tools handling massive price updates across millions of records
 
-### 🏢 **Nipun Net Solutions** | India
+### 🏢 **Startup** | India
 **Full Stack Software Engineer** *(May 2018 - Dec 2018)*
 - Upgraded application UI achieving 30% performance improvement
 - Built real-time inventory tracking dashboards
